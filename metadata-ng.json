@@ -7,7 +7,7 @@
         }
     ],
     "defaultMemory": 512,
-    "description": "This application demonstrates how to use Java JPA with the SQL Database service and 'Liberty for Java™' runtime.",
+    "description": "Use Java JPA with the SQL Database service and 'Liberty for Java™' runtime.",
     "type": "web",
     "version": "1.0",
     "smallIcon": "Java_DB100x100.png",
