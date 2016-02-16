@@ -31,39 +31,39 @@
 		"i18n" : {
 			"de" : {
 				"name" : "Java DB Web Starter",
-				"description": "Diese Beispielanwendung veranschaulicht die Verwendung von Java Persistence API (JPA) zur Herstellung einer Verbindung zu einer SQL-Datenbank."
+				"description": "Java Persistence API (JPA) mit SQL Database-Service und Laufzeit 'Liberty for Java\u2122' verwenden."
 			},
 			"es" : {
 				"name" : "Java DB Web Starter",
-				"description": "Esta aplicación de ejemplo muestra cómo utilizar Java JPA para conectar con una base de datos SQL."
+				"description": "Utilice Java JPA con el servicio SQL Database y el tiempo de ejecución 'Liberty for Java\u2122'."
 			},
 			"fr" : {
 				"name" : "Java DB Web Starter",
-				"description": "Ce modèle d'application explique comment utiliser l'API Java Persistence pour se connecter à une base de données SQL."
+				"description": "Utilisez Java JPA avec le service SQL Database et le contexte d'exécution 'Liberty for Java\u2122'."
 			},
 			"it" : {
 				"name" : "Java DB Web Starter",
-				"description": "Questa applicazione di esempio mostra come utilizzare il JPA Java per connettersi a un database SQL."
+				"description": "Utilizza JPA Java con il servizio SQL Database e il runtime 'Liberty for Java\u2122'."
 			},
 			"ja" : {
 				"name" : "Java DB Web Starter",
-				"description": "このサンプル・アプリケーションでは、Java JPA を使用して SQL Database に接続する方法を示します。"
-			},
-			"pt-BR" : {
-				"name" : "Java DB Web Starter",
-				"description": "Este aplicativo de amostra demonstra como usar o Java JPA para se conectar a um banco de dados SQL."
-			},
-			"zh-Hans" : {
-				"name" : "Java DB Web Starter",
-				"description": "此样本应用程序演示如何使用 Java JPA 来连接 SQL 数据库。"
-			},
-			"zh-Hant" : {
-				"name" : "Java DB Web Starter",
-				"description": "這個範例應用程式示範如何使用 Java JPA 連接至 SQL Database。"
+				"description": "Java JPA を SQL Database サービスおよび 'Liberty for Java\u2122' ランタイムと一緒に使用します。"
 			},
 			"ko": {
 				"name": "Java DB Web Starter",
-				"description": "이 샘플 애플리케이션에서는 SQL Database에 연결하기 위해 Java JPA를 사용하는 방법을 보여줍니다. "
+				"description": "SQL 데이터베이스 서비스 및 'Liberty for Java\u2122' 런타임과 함께 Java JPA를 사용합니다. "
+			},
+			"pt-BR" : {
+				"name" : "Java DB Web Starter",
+				"description": "Use Java JPA com o serviço de Banco de Dados SQL e o tempo de execução 'Liberty for Java\u2122'."
+			},
+			"zh-Hans" : {
+				"name" : "Java DB Web Starter",
+				"description": "将 Java JPA 与 SQL Database 服务和“Liberty for Java\u2122”运行时一起使用。"
+			},
+			"zh-Hant" : {
+				"name" : "Java DB Web Starter",
+				"description": "使用 Java JPA 搭配 SQL Database 服務及 'Liberty for Java\u2122' 執行時期。"
 			}
 		}
 	}
